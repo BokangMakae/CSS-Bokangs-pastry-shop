@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  margin-right: 200px;
+  background: #5d9ab2 url["img_tree.png"] no-repeat top left;
+}
+
+ .center_div {
+  border: 1px solid gray;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background-color: #d0f0f6;
+  text-align: justify;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+
+  <div class="center_div">
+    <h1>Hello world!</h1>
+    <h2>welcome to my site!</h2>
+    <h3>Come to me if you want to try something new</h3>
+    <p>This website i will be selling backed goods savoury or sweet that comes from all over the world right here in south africa my name is Bokang Makae
+      and i am a young buisness women i am only 13yrs old and we have all the cakes;cookies;biscuts;muffins; and pastries ect
+      you can find us on google and in Sandton our number is: 0** *** ***9
+      Price is from R300 to R30
+      adress: Swaartpiek crecent ninapark ***** </p>
+    </div>
+
+  </body>
+  </html> 
+
+
+d
